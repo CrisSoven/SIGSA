@@ -1,3 +1,10 @@
 body{
     background-color: #E9EFF4 !important;
 }
+
+.ad{
+    display: flex;
+    background-color: #E43612;
+    justify-content: center;
+    font-weight: bold;
+}
