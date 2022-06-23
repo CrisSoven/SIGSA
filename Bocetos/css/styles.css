@@ -6,5 +6,6 @@ body{
     display: flex;
     background-color: #E43612;
     justify-content: center;
+    text-align: center;
     font-weight: bold;
 }
