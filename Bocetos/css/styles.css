@@ -4,8 +4,18 @@ body{
 
 .ad{
     display: flex;
-    background-color: #E43612;
+    color: #c71e31;
+    background-color: #e1d00f;
     justify-content: center;
     text-align: center;
     font-weight: bold;
+}
+
+img{
+    border-radius: 10px;
+}
+
+.size{
+    height: 65%;
+    object-fit: cover;
 }
